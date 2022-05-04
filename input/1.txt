@@ -1,0 +1,4 @@
+c blue red 
+fill { repeat 6 {
+    f200 l60
+}}
